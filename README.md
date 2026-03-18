@@ -1,14 +1,14 @@
-# 👩‍💻 Yasmim Silva
+# Yasmim Silva
 
-ADS Student | Learning Software Development 🚀
+ADS Student | Learning Software Development 
 
 Este perfil é meu espaço de aprendizado e prática no mundo da programação.
 
 Aqui você vai encontrar:
  
-* 🐍 Exercícios de lógica e programação em Python  
-* 📱 Um projetinho em Kotlin para explorar a linguagem  
-* 🏥 VittaClinic — sistema de gerenciamento de clínica desenvolvido em equipe  
+*  Exercícios de lógica e programação em Python  
+*  Um projetinho em Kotlin para explorar a linguagem  
+*  VittaClinic — sistema de gerenciamento de clínica desenvolvido em equipe  
 
 Construindo projetos e evoluindo constantemente na área de tecnologia ✨
 
@@ -31,6 +31,6 @@ Construindo projetos e evoluindo constantemente na área de tecnologia ✨
 
 ## 🌱 Atualmente aprendendo
 
-* 🐍 Resolução de exercícios de lógica com Python  
-* 📱 Desenvolvimento Mobile  
-* 💻 Boas práticas de programação
+*  Resolução de exercícios de lógica com Python  
+*  Desenvolvimento Mobile  
+*  Boas práticas de programação
